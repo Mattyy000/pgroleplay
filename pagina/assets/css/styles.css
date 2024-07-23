@@ -1,0 +1,26 @@
+body { 
+    background-color: rgba(48, 43, 43, 0.384);
+}
+
+.boton-env {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+}
+
+.fondo {
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+.subtitulo { 
+    padding-top: 8rem;
+    text-align: center;
+    padding-bottom: 1rem;
+}
+
+.footer { 
+    color: white;
+}
